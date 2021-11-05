@@ -1,0 +1,42 @@
+Write your pseudocode here:
+
+You'll come across problems you've never seen before. This helps you guide the process and get unstuck. 
+
+Write pseudocode based on user actions. WHAT SHOULD HAPPEN NEXT.
+
+Rubber ducking - talking to a rubber duck on the desk explaining what you are doing. You can use it to pseudocode. 
+
+
+-- build a rock, paper, scissors game
+
+-- what is my layout going to look like?
+    -- no css, alerts, prompts, confirms
+
+-- what are the rules of the game? (if i win)
+    -- rock beats scissors 
+    -- scissors beats paper
+    -- paper beats rock
+
+
+-- variable
+    -- userChoice
+    -- computerChoice
+    -- win, loss, ties
+    -- results
+
+
+-- if statment, function
+
+-- need to increment stats based on who won the game
+
+-- user actions
+    -- what is the first page that user will see?
+        -- user choice of r, p, or sc
+    -- second page
+        -- computer choice (randomized)
+    -- third 
+        -- you won or you lost
+    -- fourth
+        -- tally of wins, losses, ties
+    -- fifth
+        -- back to first, user choice of r, p, s 
